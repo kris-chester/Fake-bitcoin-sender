@@ -25,7 +25,9 @@ https://youtu.be/qo_KUTH1wag?si=7_vkXeX19j9jMM1A
 For enhanced security and privacy, we offer the ability to route your activities and transactions through proxy IPs and Tor servers. This allows you to:
 
 • Maintain anonymity during crypto transfers
+
 • Prevent unwanted tracking
+
 • Access geo-restricted services
 
 # Disclaimer
